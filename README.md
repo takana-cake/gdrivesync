@@ -1,0 +1,2 @@
+# gdrivesync
+linux gdrive sync
